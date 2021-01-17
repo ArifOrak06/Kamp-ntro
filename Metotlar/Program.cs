@@ -34,7 +34,7 @@ namespace Metotlar
             sepetManager.Ekle(urun2);
 
             sepetManager.Ekle2("Kiraz", "Kırmızı Kiraz", 15, 3);
-                  
+
 
 
 
