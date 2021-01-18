@@ -17,6 +17,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DegerlerVeReferansTipler", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TernanyOdev", "TernanyOdev\TernanyOdev.csproj", "{472A09ED-2320-4B4B-856B-A1F242CE71A5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchCaseArastirmaOdev", "SwitchCaseArastirmaOdev\SwitchCaseArastirmaOdev.csproj", "{F2904006-A768-40CD-830F-E1AD551D30BF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{472A09ED-2320-4B4B-856B-A1F242CE71A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{472A09ED-2320-4B4B-856B-A1F242CE71A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{472A09ED-2320-4B4B-856B-A1F242CE71A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2904006-A768-40CD-830F-E1AD551D30BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2904006-A768-40CD-830F-E1AD551D30BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2904006-A768-40CD-830F-E1AD551D30BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2904006-A768-40CD-830F-E1AD551D30BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
